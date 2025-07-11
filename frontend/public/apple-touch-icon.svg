@@ -1,0 +1,6 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="180" height="180" rx="40" fill="#2563EB"/>
+<circle cx="90" cy="90" r="45" fill="white"/>
+<circle cx="90" cy="90" r="32" fill="#2563EB"/>
+<text x="90" y="98" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">SN</text>
+</svg>
